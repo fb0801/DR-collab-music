@@ -51,3 +51,7 @@ https://youtu.be/Lsq9oRZ2WiU
 https://youtu.be/qXFGBUcZ5LU
 
 https://www.toptal.com/developers/gitignore/
+
+https://www.npmjs.com/package/webpack
+
+https://www.npmjs.com/package/@babel/plugin-proposal-class-properties
