@@ -55,3 +55,5 @@ https://www.toptal.com/developers/gitignore/
 https://www.npmjs.com/package/webpack
 
 https://www.npmjs.com/package/@babel/plugin-proposal-class-properties
+
+https://www.npmjs.com/package/@material-ui/icons
