@@ -6,6 +6,8 @@ DjangoReact project using video by <a href="https://www.youtube.com/watch?v=JD-a
 
 ## Issues:
 
+If face issue installing package retry to install or use --force
+
 ## Resources used:
 
 Django for backend
