@@ -14,6 +14,10 @@ Django for backend
 
 React for frontend
 
+Spotifiy API -> https://developer.spotify.com/
+
+original repo -> https://github.com/techwithtim/Music-Controller-Web-App-Tutorial
+
 https://www.w3schools.com/django/django_create_virtual_environment.php
 
 https://react.dev/learn
