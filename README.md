@@ -8,6 +8,8 @@ DjangoReact project using video by <a href="https://www.youtube.com/watch?v=JD-a
 
 If face issue installing package retry to install or use --force
 
+if python module not working in env install on main
+
 ## Resources used:
 
 Django for backend
